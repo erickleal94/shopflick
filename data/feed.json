@@ -1,0 +1,100 @@
+{
+  "chat": {
+    "total": 20,
+    "new": 1
+  },
+  "feed": [
+    {
+      "name": "macaquinho laço estampado",
+      "brand": "LZST",
+      "price": 13900,
+      "sale_price": null,
+      "feature": "Entrega rápida disponível",
+      "likes": {
+        "total": 460,
+        "people": [
+          {
+            "id": 1,
+            "img": "assets/img/face_1.png"
+          },
+          {
+            "id": 2,
+            "img": "assets/img/face_2.png"
+          },
+          {
+            "id": 3,
+            "img": "assets/img/face_3.png"
+          }
+        ]
+      },
+      "liked": false,
+      "image": "assets/img/macaquinho.png"
+    },
+    {
+      "name": "quero-quero ocre",
+      "brand": "Muv Shoes",
+      "price": 25900,
+      "sale_price": 24900,
+      "feature": "Entrega rápida disponível",
+      "likes": {
+        "total": 3256,
+        "people": [
+          {
+            "id": 1,
+            "img": "assets/img/face_1.png"
+          },
+          {
+            "id": 2,
+            "img": "assets/img/face_2.png"
+          }
+        ]
+      },
+      "liked": true,
+      "image": "assets/img/macaquinho.png"
+    },
+    {
+      "name": "anéis ciclos",
+      "brand": "LZST",
+      "price": 4990,
+      "sale_price": 3990,
+      "feature": "Acabou de chegar",
+      "likes": {
+        "total": 910,
+        "people": [
+          {
+            "id": 1,
+            "img": "assets/img/face_3.png"
+          }
+        ]
+      },
+      "liked": true,
+      "image": "assets/img/aneis.png"
+    },
+    {
+      "name": "regatão listra",
+      "brand": "dane-se",
+      "price": 9800,
+      "sale_price": null,
+      "feature": "Coleção Outono 2018",
+      "likes": {
+        "total": 4600,
+        "people": [
+          {
+            "id": 1,
+            "img": "assets/img/face_1.png"
+          },
+          {
+            "id": 2,
+            "img": "assets/img/face_2.png"
+          },
+          {
+            "id": 3,
+            "img": "assets/img/face_3.png"
+          }
+        ]
+      },
+      "liked": true,
+      "image": "assets/img/regatao.png"
+    }
+  ]
+}
